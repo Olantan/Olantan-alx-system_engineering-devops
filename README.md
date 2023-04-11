@@ -1,21 +1,3 @@
-
-bdbaraban
-/
-holberton-system_engineering-devops
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-holberton-system_engineering-devops/0x03-shell_variables_expansions/README.md
-@234761
-234761 Add emoji to Tasks section title and make file names actual links to …
-…
- 1 contributor
-81 lines (61 sloc)  3.64 KB
 Shell, init files, variables and expansions
 In this project, I learned about initialization files, local, global, and reserved variables, and special parameters in the Shell. Further, I practiced using expansions, performing arithmetic operations, and utilizing aliases.
 
